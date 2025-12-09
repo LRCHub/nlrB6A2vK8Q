@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Cry Later",
+  "base_artist": "18scott",
+  "createdAt": "2025-12-09T14:53:21.272556Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "skyscrapers (love now, cry later)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/01_skyscrapers_(love_now,_cry_later)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Laugh Now Cry Later (feat. Lil Durk)",
+      "artist": "Drake feat. Lil Durk",
+      "has_synced": true,
+      "path": "select/02_Laugh_Now_Cry_Later_(feat._Lil_Durk)_Drake_feat._Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Laugh Now Cry Later",
+      "artist": "Drake, Lil Durk",
+      "has_synced": true,
+      "path": "select/03_Laugh_Now_Cry_Later_Drake,_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Laugh Now Cry Later (feat. Lil Durk)",
+      "artist": "Drake, Lil Durk",
+      "has_synced": true,
+      "path": "select/04_Laugh_Now_Cry_Later_(feat._Lil_Durk)_Drake,_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Laugh Now Cry Later",
+      "artist": "Drake, Lil Durk",
+      "has_synced": true,
+      "path": "select/05_Laugh_Now_Cry_Later_Drake,_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Laugh Now Cry Later",
+      "artist": "Drake feat. Lil Durk",
+      "has_synced": true,
+      "path": "select/06_Laugh_Now_Cry_Later_Drake_feat._Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Laugh Now, Cry Later",
+      "artist": "Ice Cube",
+      "has_synced": true,
+      "path": "select/07_Laugh_Now,_Cry_Later_Ice_Cube.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Laugh Now Cry Later",
+      "artist": "Drake ft. Lil Durk",
+      "has_synced": true,
+      "path": "select/08_Laugh_Now_Cry_Later_Drake_ft._Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "CRY LATER (feat. Sfera Ebbasta & Luchè)",
+      "artist": "Noyz Narcos feat. Sfera Ebbasta, Night Skinny & Luchè",
+      "has_synced": true,
+      "path": "select/09_CRY_LATER_(feat._Sfera_Ebbasta_&_Luchè)_Noyz_Narcos_feat._Sfera_Ebbasta,_Night_Skinny_&_Luchè.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "CRY LATER (feat. Sfera Ebbasta & Luchè)",
+      "artist": "Noyz Narcos",
+      "has_synced": true,
+      "path": "select/10_CRY_LATER_(feat._Sfera_Ebbasta_&_Luchè)_Noyz_Narcos.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Smile Now, Cry Later",
+      "artist": "Voodoo Glow Skulls",
+      "has_synced": true,
+      "path": "select/11_Smile_Now,_Cry_Later_Voodoo_Glow_Skulls.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cry Later",
+      "artist": "Diljit Dosanjh",
+      "has_synced": true,
+      "path": "select/12_Cry_Later_Diljit_Dosanjh.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Smile Now, Cry Later",
+      "artist": "Sunny & The Sunliners",
+      "has_synced": true,
+      "path": "select/13_Smile_Now,_Cry_Later_Sunny_&_The_Sunliners.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Laugh Now Cry Later",
+      "artist": "Drake, Lil Durk",
+      "has_synced": true,
+      "path": "select/14_Laugh_Now_Cry_Later_Drake,_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Laugh Now Cry Later",
+      "artist": "Drake Ft. Lil Durk",
+      "has_synced": true,
+      "path": "select/15_Laugh_Now_Cry_Later_Drake_Ft._Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Laugh Now Cry Later",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/16_Laugh_Now_Cry_Later_Drake.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Laugh Now Cry Later (feat. Lil Durk) (6)",
+      "artist": "Drake feat. Lil Durk",
+      "has_synced": true,
+      "path": "select/17_Laugh_Now_Cry_Later_(feat._Lil_Durk)_(6)_Drake_feat._Lil_Durk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cry Later (feat. 柊人)",
+      "artist": "18scott",
+      "has_synced": false,
+      "path": "select/pl_01_Cry_Later_(feat._柊人)_18scott.txt"
+    }
+  ]
+}
